@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
             path = 'results/' + opt.name
             os.makedirs(path, exist_ok=True)
-            sub_path = path + '/PFAFN'
+            sub_path = path + '/VITON-Extends'
             os.makedirs(sub_path,exist_ok=True)
 
             if step % 1 == 0:
