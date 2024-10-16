@@ -121,7 +121,7 @@ This project utilizes the following frameworks and libraries:
 ## 📊 Dataset
 
 VITON-Extends contains a training set of 14,221 image pairs and a test set of 2,032 image pairs, each featuring front-view woman images and top clothing items at a resolution of 1024×768. These provide a diverse range of body poses for improved garment fitting. To train from scratch, download the [VITON-Extends_train](https://drive.google.com/drive/folders/1wsIp7n2msLdNLffNo4EEKPfWZZK_284w?usp=drive_link). For testing, download the [VITON-Extends_test](https://drive.google.com/drive/folders/1wsIp7n2msLdNLffNo4EEKPfWZZK_284w?usp=drive_link).
-## 🎨 Results
+## 🎨 Results Demo
 ![VITON-Extends Results](https://github.com/user-attachments/assets/df7df550-f3c6-431c-b2d6-384011173b60)
 
 **Results of VITON-Extends Model Applied to Virtual Try-On in Complex Poses**
