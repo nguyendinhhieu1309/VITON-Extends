@@ -111,6 +111,9 @@ This project utilizes the following frameworks and libraries:
    python test.py --name demo --resize_or_crop None --batchSize 1 --gpu_ids 0
    ```
 
+3. **Test FID**
+   Download Dataset All: To download various datasets for training and testing the model, use the following links [All models](https://drive.google.com/drive/folders/10r1cMHbfpEF3jCH5JqHM1o-9B-Q4KNRB?usp=drive_link)
+   For evaluating the Fréchet Inception Distance (FID) score, follow the instructions [FID](https://github.com/mseitzer/pytorch-fid.git) to set up the FID calculation. This will allow you to compare the quality of generated images with real ones.
 ---
 
 ## 📊 Dataset
