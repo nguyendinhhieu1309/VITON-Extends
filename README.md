@@ -44,6 +44,7 @@ This project utilizes the following frameworks and libraries:
 | [![CuPy](https://img.shields.io/badge/CuPy-13.3.0-blue?logo=cupy&logoColor=white)](https://cupy.dev) | 13.3.0 | 
 | [![OpenCV](https://img.shields.io/badge/OpenCV-4.10.0-green?logo=opencv&logoColor=white)](https://opencv.org) | 4.10.0 | 
 | [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://python.org) | 3.12 |
+| [![TensorboardX](https://img.shields.io/badge/TensorboardX-2.4-orange?logo=tensorflow&logoColor=white)](https://github.com/lanpa/tensorboardX) | 2.4 |
 
 ---
 
