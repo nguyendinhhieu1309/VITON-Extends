@@ -38,7 +38,12 @@ To run this project, please install the following dependencies using `pip`:
    source tryon_env/bin/activate   # On Linux/Mac
    # or
    tryon_env\Scripts\activate      # On Windows
-Install the necessary libraries using pip:
-pip install torch==2.2.1+cu118 torchvision==0.17.1+cu118
-pip install cupy==13.3.0
-pip install opencv-python==4.10.0
+2. Install the necessary libraries using pip:
+  ```bash
+  pip install torch==2.2.1+cu118 torchvision==0.17.1+cu118
+  pip install cupy==13.3.0
+  pip install opencv-python==4.10.0
+3. Clone the repository:
+  ```bash
+  git clone https://github.com/nguyendinhhieu1309/VITON-Extends.git
+  cd VITON-Extends
