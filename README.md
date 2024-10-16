@@ -41,13 +41,13 @@ Experimental results on the VITON benchmark showcase the superiority of our meth
 
 This project is built using the following frameworks and libraries:
 
-| **Framework** | **Version** | **Icon** |
-|:--------------|:------------|:--------:|
-| [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.1-red?logo=pytorch&logoColor=white)](https://pytorch.org) | 2.2.1+cu118 | ![PyTorch Icon](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg) |
-| [![TorchVision](https://img.shields.io/badge/TorchVision-0.17.1-yellow?logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/index.html) | 0.17.1+cu118 | ![TorchVision Icon](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg) |
-| [![CuPy](https://img.shields.io/badge/CuPy-13.3.0-blue?logo=cupy&logoColor=white)](https://cupy.dev) | 13.3.0 | ![CuPy Icon](https://raw.githubusercontent.com/cupy/cupy/main/docs/image/cupy_logo_1000px.png) |
-| [![OpenCV](https://img.shields.io/badge/OpenCV-4.10.0-green?logo=opencv&logoColor=white)](https://opencv.org) | 4.10.0 | ![OpenCV Icon](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg) |
-| [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://python.org) | 3.12 | ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| **Framework** | **Version** |
+|:--------------|:------------|
+| [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.1-red?logo=pytorch&logoColor=white)](https://pytorch.org) | 2.2.1+cu118 |
+| [![TorchVision](https://img.shields.io/badge/TorchVision-0.17.1-yellow?logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/index.html) | 0.17.1+cu118 |
+| [![CuPy](https://img.shields.io/badge/CuPy-13.3.0-blue?logo=cupy&logoColor=white)](https://cupy.dev) | 13.3.0 | 
+| [![OpenCV](https://img.shields.io/badge/OpenCV-4.10.0-green?logo=opencv&logoColor=white)](https://opencv.org) | 4.10.0 | 
+| [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://python.org) | 3.12 |
 
 ---
 
