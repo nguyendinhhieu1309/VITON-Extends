@@ -27,7 +27,7 @@ Garment fitting in virtual try-on systems often struggles with complex body pose
 
 ## 📄 Paper
 
-- [Official Paper](https://github.com/khuong16/Pose-Adapt-VITON-Extends/tree/master)
+- [Official Paper](#)
 - [Supplementary Material](#)
 - [Checkpoints for Test](#)
 
