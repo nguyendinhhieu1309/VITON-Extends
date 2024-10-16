@@ -1,5 +1,5 @@
 
-# Enhancing Pose Adaptability in Virtual Try-On Systems
+# 👗 Enhancing Pose Adaptability in Virtual Try-On Systems
 
 **Nguyen Dinh Hieu, Tran Minh Khuong, Phan Duy Hung**  
 FPT University, Hanoi, Vietnam  
@@ -7,25 +7,25 @@ FPT University, Hanoi, Vietnam
 
 ---
 
-## Abstract
+## ✨ Abstract
 
 Garment fitting in virtual try-on systems often struggles with complex body poses, occlusions, and misalignments. This project introduces a novel solution that improves adaptability and garment warping using a global appearance flow estimation model. Our method leverages a StyleGAN-based architecture, incorporating a global style vector to enhance spatial alignment between garments and body poses. We also integrate a flow refinement module for finer garment deformation. The results, tested on the VITON benchmark, highlight the effectiveness of our approach, especially under challenging conditions, achieving state-of-the-art performance.
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Paper](#paper)
-- [Environment Setup](#environment-setup)
-- [Installation](#installation)
-- [Training](#training)
-- [Testing](#testing)
-- [Dataset](#dataset)
-- [Acknowledgements](#acknowledgements)
+- [📄 Paper](#paper)
+- [🛠️ Environment Setup](#environment-setup)
+- [💻 Installation](#installation)
+- [🚀 Training](#training)
+- [🔍 Testing](#testing)
+- [📊 Dataset](#dataset)
+- [🤝 Acknowledgements](#acknowledgements)
 
 ---
 
-## Paper
+## 📄 Paper
 
 - [Official Paper](https://github.com/khuong16/Pose-Adapt-VITON-Extends/tree/master)
 - [Supplementary Material](#)
@@ -33,7 +33,7 @@ Garment fitting in virtual try-on systems often struggles with complex body pose
 
 ---
 
-## Framework and Environment Setup
+## 🛠️ Framework and Environment Setup
 
 This project utilizes the following frameworks and libraries:
 
@@ -47,7 +47,7 @@ This project utilizes the following frameworks and libraries:
 
 ---
 
-## Installation
+## 💻 Installation
 
 1. **Create a Conda Environment**  
    ```bash
@@ -74,7 +74,7 @@ This project utilizes the following frameworks and libraries:
 
 ---
 
-## Training on VITON-Extends Dataset
+## 🚀 Training on VITON-Extends Dataset
 
 1. **Download VITON-Extends Training Set**  
    Download the VITON training set from [VITON-Extends_train](https://drive.google.com/drive/folders/1wsIp7n2msLdNLffNo4EEKPfWZZK_284w?usp=drive_link) and place the folder `VITON-Extends_traindata` under the folder `dataset`.
@@ -98,7 +98,7 @@ This project utilizes the following frameworks and libraries:
 
 ---
 
-## Testing
+## 🔍 Testing
 
 1. **Download the Checkpoints**  
    Download the checkpoints from [here](https://drive.google.com/drive/folders/15AbTw16w13dN1hY430flBZbe1EfumJT7?usp=drive_link) and place the folder `VITON-Extends` under the folder `checkpoints`.  
@@ -107,17 +107,17 @@ This project utilizes the following frameworks and libraries:
 2. **Run the Test**  
    Run the following command to test the saved model:  
    ```bash
-   bash
+   python test.py --name demo --resize_or_crop None --batchSize 1 --gpu_ids 0
    ```
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 VITON-Extends contains a training set of 14,221 image pairs and a test set of 2,032 image pairs, each featuring front-view woman images and top clothing items at a resolution of 1024×768. These provide a diverse range of body poses for improved garment fitting. To train from scratch, download the [VITON-Extends_train](https://drive.google.com/drive/folders/1wsIp7n2msLdNLffNo4EEKPfWZZK_284w?usp=drive_link). For testing, download the [VITON-Extends_test](https://drive.google.com/drive/folders/1wsIp7n2msLdNLffNo4EEKPfWZZK_284w?usp=drive_link).
 
 ---
 
-## Acknowledgements 
+## 🤝 Acknowledgements 
 
 This project builds upon the principles of prior research in virtual try-on systems. The base code was adapted from "Clothflow: A flow-based model for clothed person generation." All contributions are acknowledged, and further citations are provided within the source code and accompanying documentation.
