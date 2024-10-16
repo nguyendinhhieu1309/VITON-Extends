@@ -32,7 +32,6 @@ To run this project, please install the following dependencies using `pip`:
 ### Installation
 
 1. Create and activate a virtual environment using `venv`:
-
    ```bash
    python3 -m venv tryon_env
    source tryon_env/bin/activate   # On Linux/Mac
@@ -44,7 +43,6 @@ To run this project, please install the following dependencies using `pip`:
   pip install cupy==13.3.0
   pip install opencv-python==4.10.0
 3. Clone the repository:
-
-```bash
-  git clone https://github.com/nguyendinhhieu1309/VITON-Extends.git
-  cd VITON-Extends
+  ```bash
+    git clone https://github.com/nguyendinhhieu1309/VITON-Extends.git
+    cd VITON-Extends
