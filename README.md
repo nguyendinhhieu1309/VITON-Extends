@@ -93,8 +93,8 @@ This project utilizes the following frameworks and libraries:
 4. **Train the Parser-Free Network**  
    After training the parser-based network, run:  
    ```bash
-   scripts/train_VITON-Extends_stage1.sh
-   scripts/train_VITON-Extends_e2e.sh
+   scripts/train_VITON-Extends2_stage1.sh
+   scripts/train_VITON-Extends2_e2e.sh
    ```
 
 ---
