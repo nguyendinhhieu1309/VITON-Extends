@@ -1,7 +1,7 @@
 
 # 👗 Enhancing Pose Adaptability in Virtual Try-On Systems
 
-**Nguyen Dinh Hieu, Tran Minh Khuong, Phan Duy Hung**  
+**Nguyen Dinh Hieu, Tran Minh Khuong, Phan Duy Hung[0000-0002-6033-6484]**  
 FPT University, Hanoi, Vietnam  
 [hieundhe180318@fpt.edu.vn](mailto:hieundhe180318@fpt.edu.vn), [khuongtmhe180089@fpt.edu.vn](mailto:khuongtmhe180089@fpt.edu.vn), [hungpd2@fe.edu.vn](mailto:hungpd2@fe.edu.vn)
 
