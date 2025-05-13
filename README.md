@@ -27,7 +27,7 @@ Garment fitting in virtual try-on systems often struggles with complex body pose
 
 ## 📄 Paper
 
-- [Official Paper](#)
+- [Official Paper](https://doi.org/10.1007/978-981-96-4606-7_21)
 - [Supplementary Material](#)
 - [Checkpoints for Test](#)
 
