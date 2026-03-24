@@ -15,7 +15,6 @@ Garment fitting in virtual try-on systems often struggles with complex body pose
 
 ## 📚 Table of Contents
 
-- [📄 Paper](#paper)
 - [🛠️ Environment Setup](#environment-setup)
 - [💻 Installation](#installation)
 - [🚀 Training](#training)
